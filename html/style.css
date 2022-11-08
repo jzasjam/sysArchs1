@@ -1,5 +1,6 @@
 body {
 	background-color: pink;
+	border: 2px solid #FFF;
 }
 p {
 	color: green;
@@ -18,3 +19,6 @@ ul {
 	color: yellow; 
 	font-family:"Iskoola Pota";
 } 
+hr {
+	background-color: #FF0000;
+}
